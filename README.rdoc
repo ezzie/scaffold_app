@@ -1,0 +1,3 @@
+== Welcome to Ruby in Rails training from ezzie infosystems
+
+Scaffolded Application
